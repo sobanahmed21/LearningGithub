@@ -8,3 +8,5 @@
 8. we can create branches by using -> git branch BRANCH NAME
 9. made new branch to use it use -> git checkout Brachn name
 10. to remove conflict open git mergetool  :diffg RE to save :wqa
+11. to connect through ssh we need to generate key for the first time for the system using -> ssh-keygen -> enter until key is created
+12. add this key in github account and verify it on local machine by writing -> ssh -T git@github.com
