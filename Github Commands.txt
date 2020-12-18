@@ -7,3 +7,4 @@
 7. we can see all the changes made in a log by using -> git log
 8. we can create branches by using -> git branch BRANCH NAME
 9. made new branch to use it use -> git checkout Brachn name
+10. to remove conflict open git mergetool  :diffg RE to save :wqa
