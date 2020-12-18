@@ -1,0 +1,4 @@
+1. create local repo by using ->  git init
+2. connect with remote repo by using -> git remote origin "link here"
+3. you can pull data from remote repo to your local machine folder by using -> git pull origin main
+4. To check what new files are available in your local folder that are not committed using -> git status
