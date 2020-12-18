@@ -10,3 +10,5 @@
 10. to remove conflict open git mergetool  :diffg RE to save :wqa
 11. to connect through ssh we need to generate key for the first time for the system using -> ssh-keygen -> enter until key is created
 12. add this key in github account and verify it on local machine by writing -> ssh -T git@github.com
+13. to push data to github use -> git push origin master
+14. to push data to branches use -> git push origin branch name   you must be in that branch to push the data
