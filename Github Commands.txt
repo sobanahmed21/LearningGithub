@@ -1,5 +1,5 @@
 1. create local repo by using ->  git init
-2. connect with remote repo by using -> git remote origin "link here"
+2. connect with remote repo by using -> git remote origin "link here"  or for ssh -> git remote set-url origin git@github.com:username/repo.git
 3. you can pull data from remote repo to your local machine folder by using -> git pull origin main
 4. To check what new files are available in your local folder that are not committed using -> git status
 5. before commit we need to add files in index of git that can be done using -> git add FILENAME  or to add multiple files use -> git add -A
